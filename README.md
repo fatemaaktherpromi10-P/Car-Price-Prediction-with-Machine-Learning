@@ -17,7 +17,7 @@ Estimating the fair market value of a used car can be challenging due to multipl
 - **Language:** Python
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-Learn
-- **Environment:** Kaggle Notebook
+- **Environment:** Jupyter Notebook/Kaggle Notebook
 
 ## 📁 Repository Structure
 ```text
